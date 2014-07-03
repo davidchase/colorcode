@@ -1,4 +1,4 @@
-Color ```<code />```
+Color ```<code/>```
 ========
 
 A WIP for colorizing syntax code per language.
